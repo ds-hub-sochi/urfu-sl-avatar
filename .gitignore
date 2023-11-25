@@ -235,3 +235,9 @@ crashlytics-build.properties
 *.preformat.bak.meta
 
 *.meta
+*.asset
+
+*/Unity3DHands/Library/Artifacts*
+
+Unity3DHands/Library*
+*Library*
